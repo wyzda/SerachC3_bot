@@ -1,6 +1,6 @@
 //C3pool telegram bot v2.5
 //https://github.com/wyzda/SerachC3_bot
-var token = "2035110096:AAHTWT37Ji_uReYFL2B2ECGZVgTRywHa45k"
+var token = "you Telegram bot token"
 var tghost = "https://api.telegram.org/bot" + token + "/";
 var inlineKeyboard = [
   [{text: '🔄 刷新',callback_data: '/update'}]
